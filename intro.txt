@@ -1,0 +1,21 @@
+We will learn HTML from the basics by understanding its definition, structure, and uses. Let’s learn together, and I hope this will be helpful
+
+Definition: HTML (Hypertext Markup Language) is the standard language used to create and structure content on the web. It defines the structure of web pages using elements and tags.
+
+Benefits/Uses:
+It provides the basic structure for web pages.
+It allows for the inclusion of text, images, videos, and other media.
+It connects different web pages through hyperlinks
+
+Definition: Hypertext refers to text displayed on a computer or device that provides links to other texts. It is a fundamental concept of how the web functions.
+
+Benefits/Uses:
+It allows easy navigation between related information.
+It connects different types of content in an intuitive way.
+It enhances user experience by presenting related information quickly.
+
+Definition: A markup language is a system for annotating a document in a way that is syntactically distinguishable from the text. HTML is a common example of a markup language.
+
+Benefits/Uses:
+It helps organize and structure content in documents.
+It enables the separation of content and presentation (using CSS).
