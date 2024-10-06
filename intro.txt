@@ -19,3 +19,4 @@ Definition: A markup language is a system for annotating a document in a way tha
 Benefits/Uses:
 It helps organize and structure content in documents.
 It enables the separation of content and presentation (using CSS).
+
